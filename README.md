@@ -4,3 +4,4 @@ i am making some edits!
 this is **bold** and this is *italics*
 making some edits to branch now
 adding text from terminal
+## now adding more stuff
